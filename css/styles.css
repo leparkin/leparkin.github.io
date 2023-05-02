@@ -2,5 +2,8 @@ body {
     background-color: rgb(6, 22, 167);
 }
 .navbar-brand {
-    align-items: center;
+    align-items: center !important;
+}
+.navbar-toggler-icon{
+    align-items: right;
 }
